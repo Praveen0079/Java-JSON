@@ -1,0 +1,8 @@
+{
+  "name": "Praveen",
+  "age": 21,
+  "email": "praveen1271@mail.com",
+  "address": {
+    "state": "Himachal Pradesh"
+  }
+}

@@ -1,7 +1,7 @@
 package com.bridgelabz;
 
 import org.json.JSONObject;
-
+//used org dependency
 public class ObjectJSON {
     public static void main(String[] args) {
         JSONObject student = new JSONObject();
